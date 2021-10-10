@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?><?compositeArtifactRepository version='1.0.0'?>
+<repository name='Preesm Snapshots - Eclipse Update Site' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='2'><property name='p2.timestamp' value='1633842017000'/><property name='p2.compressed' value='true'/></properties>
+  <children size='11'>
+    <child location='org.preesm-3.21.0.202109260410'/>
+    <child location='org.preesm-3.21.0.202109270410'/>
+    <child location='org.preesm-3.21.0.202109280411'/>
+    <child location='org.preesm-3.21.0.202109300413'/>
+    <child location='org.preesm-3.21.0.202110020414'/>
+    <child location='org.preesm-3.21.0.202110030415'/>
+    <child location='org.preesm-3.21.0.202110040416'/>
+    <child location='org.preesm-3.21.0.202110060417'/>
+    <child location='org.preesm-3.21.0.202110080418'/>
+    <child location='org.preesm-3.21.0.202110090419'/>
+    <child location='org.preesm-3.21.0.202110100420'/>
+  </children>
+</repository>
+

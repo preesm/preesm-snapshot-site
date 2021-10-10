@@ -1,0 +1,44 @@
+{
+    "timestamp" : 1633495769552,
+    "revision" : {
+        "HEAD" : "3512ca2bbd123b640741cfd4dc1b3fc8a84c101a",
+        "currentBranch" : "HEAD",
+        "knownReferences" : [
+            {
+                "name" : "origin",
+                "url" : "https://github.com/preesm/preesm.git",
+                "ref" : "HEAD"
+            },
+            {
+                "name" : "origin",
+                "url" : "https://github.com/preesm/preesm.git",
+                "ref" : "develop"
+            }
+        ]
+    },
+    "properties" : {
+        "TARGET_PLATFORM_VERSION_MAXIMUM" : "null",
+        "java.version" : "11.0.2",
+        "user.dir" : "/home/travis/build/preesm/preesm",
+        "os.arch" : "amd64",
+        "RELEASE" : "null",
+        "BUILD_ALIAS" : "null",
+        "JOB_NAME" : "null",
+        "os.version" : "4.15.0-1077-gcp",
+        "BUILD_NUMBER" : "null",
+        "TARGET_PLATFORM_VERSION" : "null",
+        "NODE_NAME" : "null",
+        "HOSTNAME" : "travis-job-b0fc8431-e4a0-4d09-8de9-fc52e0213c72",
+        "java.vendor" : "Oracle Corporation",
+        "os.name" : "Linux",
+        "ZIPSUFFIX" : "null",
+        "WORKSPACE" : "/home/travis/build/preesm/preesm"
+    },
+    "upstream" : {
+        "http://ftp.halifax.rwth-aachen.de/eclipse//releases/2019-09/" : "Build info file not accessible: http://ftp.halifax.rwth-aachen.de/eclipse//releases/2019-09/buildinfo.json",
+        "http://ftp.halifax.rwth-aachen.de/eclipse//eclipse/updates/4.13" : "Build info file not accessible: http://ftp.halifax.rwth-aachen.de/eclipse//eclipse/updates/4.13/buildinfo.json",
+        "http://preesm.insa-rennes.fr/repo//org.preesm.externaldeps/" : "Build info file not accessible: http://preesm.insa-rennes.fr/repo//org.preesm.externaldeps/buildinfo.json",
+        "http://preesm.insa-rennes.fr/repo//org.ietr.graphiti/" : "Build info file not accessible: http://preesm.insa-rennes.fr/repo//org.ietr.graphiti/buildinfo.json",
+        "http://ftp.halifax.rwth-aachen.de/eclipse//modeling/tmf/xtext/updates/releases/2.18.0" : "Build info file not accessible: http://ftp.halifax.rwth-aachen.de/eclipse//modeling/tmf/xtext/updates/releases/2.18.0/buildinfo.json"
+    }
+}
